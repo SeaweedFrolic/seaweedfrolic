@@ -7,7 +7,7 @@ By day, I'm a web designer, and by night, I write codes.
 ## 🚀 About Me
 
 - 🔭 I’m an undergraduate IT student at AMA University and a graduate of iACADEMY with a Bachelor of Arts degree in Multimedia Arts & Design.
-- 🌐 Founder of https://coteriecreates.art; the creative nest for elevating brands and uniting ideas.
+- 🌐 Founder of [coteriecreates.art](https://coteriecreates.art); the creative nest for elevating brands and uniting ideas.
 - ✍️ Currently designing my portfolio website: https://minaco.art
 
 ## My Articles
@@ -25,12 +25,12 @@ By day, I'm a web designer, and by night, I write codes.
 
  ## 🏆 Achievements
 
-- 🌟 I published https://hugis.org for my school thesis; a non-profit virtual photography exhibition that aims to celebrate, educate, and promote scoliosis awareness.
+- 🌟 I published [HUGIS.ORG](https://hugis.org) for my school thesis; a non-profit virtual photography exhibition that aims to celebrate, educate, and promote scoliosis awareness.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/CyanicOrange)
+- Connect with me on [Twitter (X)](https://twitter.com/CyanicOrange)
 - Visit my website at [minaco.art](https://minaco.art)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
