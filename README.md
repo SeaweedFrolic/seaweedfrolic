@@ -15,7 +15,7 @@ By day, I'm a web designer, and by night, I write codes.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,xd,ai,pr,ps,vscode,sublime)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
