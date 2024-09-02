@@ -8,7 +8,7 @@ By day, I'm a web designer, and by night, I write codes.
 
 - 🔭 I am an alumna of iACADEMY with a Bachelor of Arts degree in Multimedia Arts & Design.
 - 🌐 Founder of [coteriecreates.art](https://coteriecreates.art); the creative nest for elevating brands and uniting ideas.
-- ✍️ Currently designing my portfolio website: https://minaco.art
+- ✍️ Currently designing my portfolio website: [minaco.art](https://minaco.art)
 
 ## My Articles
 - [On Hiatus](https://plumrain.hatenablog.com/)
@@ -21,7 +21,7 @@ By day, I'm a web designer, and by night, I write codes.
 
 - 🚀 Learning UI/UX design
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Taking online courses about Figma and Adobe XD
+  - Taking online courses on Figma and Adobe XD.
 
  ## 🏆 Achievements
 
