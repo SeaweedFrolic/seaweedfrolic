@@ -15,7 +15,7 @@ By day, I'm a web designer, and by night, I write codes.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,xd,ai,pr,ps,vscode,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,xd,ai,pr,ps,vscode,sublime)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -25,7 +25,7 @@ By day, I'm a web designer, and by night, I write codes.
 
  ## 🏆 Achievements
 
-- 🌟 I published https://hugis.org; a non-profit virtual photography exhibition that aims to celebrate, educate, and promote scoliosis awareness.
+- 🌟 I published https://hugis.org for my school thesis; a non-profit virtual photography exhibition that aims to celebrate, educate, and promote scoliosis awareness.
 
 
 ## 📬 Get in Touch
