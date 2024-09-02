@@ -1,8 +1,8 @@
-# Hi, I'm <MINA>! 👋
+# Hi, I'm MINA! 👋
 
 By day, I'm a web designer, and by night, I write codes.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<seaweedfrolic>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=seaweedfrolic&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
