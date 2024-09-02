@@ -6,7 +6,7 @@ By day, I'm a web designer, and by night, I write codes.
 
 ## 🚀 About Me
 
-- 🔭 I’m an undergraduate IT student at AMA University and a graduate of iACADEMY with a Bachelor of Arts degree in Multimedia Arts & Design.
+- 🔭 I’m an alumna of iACADEMY with a Bachelor of Arts degree in Multimedia Arts & Design.
 - 🌐 Founder of [coteriecreates.art](https://coteriecreates.art); the creative nest for elevating brands and uniting ideas.
 - ✍️ Currently designing my portfolio website: https://minaco.art
 
