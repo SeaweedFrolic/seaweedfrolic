@@ -30,7 +30,7 @@ By day, I'm a web designer, and by night, I write codes.
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter (X)](https://twitter.com/CyanicOrange)
+- Connect with me on [Twitter (X)](https://x.com/CyanicOrange)
 - Visit my website at [minaco.art](https://minaco.art)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
