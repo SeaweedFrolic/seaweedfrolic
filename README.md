@@ -8,7 +8,7 @@ By day, I'm a web designer, and by night, I write codes.
 ![Alt text](lofi.gif)
 - 🔭 I am an alumna of iACADEMY with a Bachelor of Arts degree in Multimedia Arts & Design.
 - 🌐 Founder of [coteriecreates.art](https://coteriecreates.art); the creative nest for elevating brands and uniting ideas.
-- ✍️ Currently designing my portfolio website: [minaco.art](https://minaco.art)
+- ✍️ Currently redesigning my portfolio website: [minaco.art](https://minaco.art)
 
 ## My Articles
 - [On Hiatus](https://plumrain.hatenablog.com/)
