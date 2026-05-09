@@ -2,7 +2,7 @@
 
 By day, I'm a web designer, and by night, I write codes.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=seaweedfrolic&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=SeaweedFrolic&theme=catppuccin&custom_title=SeaweedFrolic%27s+Stats)
 
 ## 🚀 About Me
 
