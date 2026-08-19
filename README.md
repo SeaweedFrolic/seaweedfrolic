@@ -25,7 +25,7 @@ By day, I'm a web designer, and by night, I write codes.
 
  ## 🏆 Achievements
 
-- 🌟 I published [HUGIS.ORG](https://hugis.org) for my school thesis; a non-profit virtual photography exhibition that aims to celebrate, educate, and promote scoliosis awareness.
+- 🌟 I published [HUGIS.ORG](https://web.archive.org/web/20220328194402/https://hugis.org/) for my school thesis; a non-profit virtual photography exhibition that aims to celebrate, educate, and promote scoliosis awareness.
 
 
 ## 📬 Get in Touch
